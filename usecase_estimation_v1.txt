@@ -1,0 +1,72 @@
+
+
+
+
+Use case Estimation
+
+
+Use Case : book management 
+
+Features                                T Shirt Size
+
+
+-Add Book in inventory                       XS   
+
+-Remove Book in inventory                    XS  
+ 
+-View All avaliable books in inventory       XS
+ 
+-Search spesfic book with book_id            S
+
+-view Loaned Books                           S
+
+
+
+
+Use Case : loan 
+Features                                         T Shirt Size
+
+
+- Add The loaned book id to the user                   S                                    
+
+- Remove The loaned book  from inventory               S              
+ 
+- Assign the loan duartion                             M                       
+ 
+
+Use Case  :  Payment                      
+
+          Features                                T Shirt Size
+
+- Annaul payment by credit card                        M
+
+- Annaul payment by Bank Deposite                      L
+
+
+Use Case :Printing           
+
+ Features                                        T Shirt Size
+
+- Calc Printing fees per use                          L
+
+
+Use Case :Contacting  
+
+ Features                                        T Shirt Size
+
+
+- library can Exchanging book                        L
+- library can donating books                         XL
+- library can buy books                              XL
+
+
+
+
+
+Use Case  :  Member Actives                       
+
+          Features                                T Shirt Size
+
+-   member donating books  to library                  XL
+-   member  recommend books  to libarary               XL
+

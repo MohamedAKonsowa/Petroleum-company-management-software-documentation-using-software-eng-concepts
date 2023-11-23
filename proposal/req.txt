@@ -1,0 +1,29 @@
+Functional Requirements : 
+	1 - Managing insurance
+	2 - Managing tool requests by Eng
+	3 - Managing shift distribution 
+	4 - Displaying The salaries of all employees
+	5 - Managing The salaries of all employees
+	6 - Managing Employee requests
+	7 - Managing Task Distribution
+	8 - Determining workplace of employees
+	9 - Managing hiring requests 
+	10- Managing maintenance request 
+	11- Displaying Shift Time
+	12- Displaying Shift Location
+	13- Classification of produced waste
+	14- Displaying the amount of waste produced
+	15- Managing wastes recycling
+	16- Managing lab requests     
+	17- Displaying lab reports
+	18- Managing employee promotions
+	19- Managing employee transportation
+	20- Managing work teams
+	21- Comparing production with prediction             
+	22- Displaying legal issues to the lawyers
+	23- Applying legal actions  
+	24- Displaying The company's financial position
+	25- Displaying maintenance report
+	26- Accessing of cameras 
+	27- Monitoring Work entry and departure times for employees
+	28- User login

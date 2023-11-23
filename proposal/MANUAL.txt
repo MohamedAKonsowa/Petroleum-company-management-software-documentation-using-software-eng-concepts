@@ -1,0 +1,131 @@
+Login:
+
+on entering the system the user will be prompted to the login interface 
+on entering the username and password and choosing the correct profession the user will be prompted an interface depending on his profession
+
+
+Worker:
+
+if the user logs in as a worker he will be pushed to a screen containing his account information
+on the left side of the screen, there will be multiple options 
+in the case of the worker (Account information(default), report, financial details, schedule, requests)
+if the user clicks on any of the options he will be pushed to a different screen
+
+in the case of the user choosing the reports option, the user will be pushed to a screen containing all the previous reports submitted by you or the other workers and a button on the bottom right corner giving you an option of 
+uploading your Report
+
+in case of choosing the financial details option, the user will be pushed into a screen containing all the details about his salary
+
+in case the user chooses the schedule he will be pushed into a screen containing his shift time and location and requirements
+
+in case the user chooses the requests option he will be pushed to a screen containing the request history and  2 buttons (day off request(pushed by default) and maintenance request) 
+in case the user does not click either button he will be on the day-off request screen by default being prompted to enter the day and the reason for the request
+but if the user decides to click on the maintenance request button he will be pushed to a screen where he will be prompted to enter the location of the malfunction and the reason for the malfunction if known
+
+
+Lawyer:
+
+if the user logs in as a lawyer he will be pushed to a screen containing his account information
+on the left side of the screen, there will be multiple options 
+in the case of the lawyer (Account information(default), report, financial details, schedule, requests, contract review)
+if the user clicks on any of the options he will be pushed to a different screen
+
+in the case of the user choosing the reports option, the user will be pushed to a screen containing all the previous reports submitted by you or the other workers and a button on the bottom right corner giving you an option of 
+uploading your Report
+
+in case of choosing the financial details option, the user will be pushed into a screen containing all the details about his salary
+
+in case the user chooses the schedule he will be pushed into a screen containing his shift time and location and requirements
+
+in case the user chooses the requests option he will be pushed into a screen containing the request history and a button(day off request) if pressed pushes the user into a screen prompting him to enter a date and reason for the request
+
+in case of choosing the contract review option, the user will be pushed to a screen containing 2 buttons(old contracts(default) and new contracts) if the user chooses not to click any of the buttons
+the old contract button will be pushed by default showing a list of the old contracts that have been approved or declined
+in the case of the user clicking the new contract button, he will be pushed to a screen where the user will be a list of all the new contracts and an option of approving or disapproving them 
+
+HR:
+
+if the user logs in as an HR worker he will be pushed to a screen containing his account information
+on the left side of the screen, there will be multiple options 
+in the case of HR workers (Account information(default), report, financial details, schedule, interview requests, requests)
+if the user clicks on any of the options he will be pushed to a different screen
+
+in the case of the user choosing the reports option, the user will be pushed to a screen containing all the previous reports submitted by you or the other workers and a button on the bottom right corner giving you an option of 
+uploading your Report
+
+in case of choosing the financial details option, the user will be pushed into a screen containing all the details about his salary
+
+in case the user chooses the schedule he will be pushed into a screen containing his shift time and location and requirements
+
+in case of the user chooses the interview requests option he will be pushed to a screen containing a list of names of the people requesting an interview with their CV links and a send an appointment email button  and cancel request button
+
+in case of the user chooses the request option, he will be pushed to a screen with a list containing the ids and corresponding requests and an accept request and cancel request button 
+
+Security:
+
+if the user logs in as security he will be pushed to a screen containing his account information
+on the left side of the screen, there will be multiple options 
+in the case of security workers (Account information(default), report, financial details, schedule, requests, camera view)
+if the user clicks on any of the options he will be pushed to a different screen
+
+in the case of the user choosing the reports option, the user will be pushed to a screen containing all the previous reports submitted by you or the other workers and a button on the bottom right corner giving you an option of 
+uploading your Report
+
+in case of choosing the financial details option, the user will be pushed into a screen containing all the details about his salary
+
+in case the user chooses the schedule he will be pushed into a screen containing his shift time and location and requirements
+
+in case of the user chooses the request option, he will be pushed to a screen with a list containing the ids and corresponding requests and an accept request and cancel request button 
+and a button where if the user chooses to press he will be prompted to enter a request 
+
+Lab Worker:
+
+if the user logs in as a lab worker he will be pushed to a screen containing his account information
+on the left side of the screen, there will be multiple options 
+in the case of the lab worker (Account information(default), report, financial details, schedule, requests, lab review)
+if the user clicks on any of the options he will be pushed to a different screen
+
+in the case of the user choosing the reports option, the user will be pushed to a screen containing all the previous reports submitted by you or the other workers and a button on the bottom right corner giving you an option of 
+uploading your Report
+
+in case of choosing the financial details option, the user will be pushed into a screen containing all the details about his salary
+
+in case the user chooses the schedule he will be pushed into a screen containing his shift time and location and requirements
+
+in case the user chooses the requests option he will be pushed to a screen containing the request history and  2 buttons (day off request(pushed by default) and maintenance request) 
+in case the user does not click either button he will be on the day-off request screen by default being prompted to enter the day and the reason for the request
+but if the user decides to click on the maintenance request button he will be pushed to a screen where he will be prompted to enter the location of the malfunction and the reason for the malfunction if known
+
+in case the user chooses the lab review option he will be pushed to a screen where the user will see 3 buttons (review lab progress(default), display lab workers, request lab requirements)
+if the user chooses to not click any of the buttons the review lab progress button will be pushed by default displaying a lab progress report
+if the user chooses to click the display lab workers button he would be pushed to a new screen where the lab members will be listed
+if the user chose to click the request lab requirement button he will be prompted to enter the tool he would like to submit with a send button on the bottom right to click after selecting the required tool
+
+Accountant:
+
+if the user logs in as an accountant he will be pushed to a screen containing his account information
+on the left side of the screen, there will be multiple options 
+in the case of the accountant (Account information(default), report, financial details, schedule, requests, company Finance)
+if the user clicks on any of the options he will be pushed to a different screen
+
+in the case of the user choosing the reports option, the user will be pushed to a screen containing all the previous reports submitted by you or the other workers and a button on the bottom right corner giving you an option of 
+uploading your Report
+
+in case of choosing the financial details option, the user will be pushed into a screen containing all the details about his salary
+
+in case the user chooses the schedule he will be pushed into a screen containing his shift time and location and requirements
+
+in case the user chooses the requests option he will be pushed to a screen containing the request history and  2 buttons (day off request(pushed by default) and maintenance request) 
+in case the user does not click either button he will be on the day-off request screen by default being prompted to enter the day and the reason for the request
+but if the user decides to click on the maintenance request button he will be pushed to a screen where he will be prompted to enter the location of the malfunction and the reason for the malfunction if known
+
+in case the user chooses the company finance option he will be pushed to a screen containing a dropdown box containing (view bills, view taxes, view salary, financial report)
+if the user clicks on the view bills option two buttons will appear (new bill, old bills) if the user chooses to click on the old bill button a list of the old bills will be displayed
+and in the case of the new bill option, a list of the new bills will be displayed
+in case the user chooses to click the view taxes option two buttons will appear (new taxes, old taxes) if the user chooses to click on the old taxes button a list of the old taxes will be displayed
+and in the case of the new taxes option, a list of the new taxes will be displayed
+in case the user chooses the view salary option he will be prompted to enter the id of the employee whom he wants to see the salary of
+in case the user chooses the financial report option 3 buttons will appear (view old reports, view new reports, upload a new report) 
+if the user chooses the view old report option a list of old reports will be displayed 
+if the user chooses the view new report option a list of new reports will be displayed 
+if the user chooses the upload new report option he will be prompted to enter a new report

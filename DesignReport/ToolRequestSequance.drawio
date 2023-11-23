@@ -1,0 +1,423 @@
+<mxfile host="Electron" modified="2023-04-30T14:36:06.559Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/21.1.2 Chrome/106.0.5249.199 Electron/21.4.3 Safari/537.36" etag="wgkHpXJ_UVbvRpvleJAA" version="21.1.2" type="device">
+  <diagram name="Page-1" id="6dIIGfzA1pdvOjAw48jw">
+    <mxGraphModel dx="3545" dy="2050" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="5000" pageHeight="5000" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="KE9948br8B84KFf-CvC7-3" value="Engineer" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="500" y="80" width="100" height="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-1" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
+          <mxGeometry x="390" y="80" width="20" height="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-4" value="Industry Development Department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="660" y="80" width="100" height="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-5" value="Specialized Tool Company" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="820" y="80" width="100" height="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-6" value="Financial Department" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="980" y="80" width="100" height="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-7" value="Company Manager" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;elbow&quot;:&quot;vertical&quot;,&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
+          <mxGeometry x="1150" y="80" width="100" height="1790" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-10" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="400.02380952380963" y="200" as="sourcePoint" />
+            <mxPoint x="549.4999999999998" y="200" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-11" value="SendToolRequest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-10">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="7" y="-9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-16" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="555" y="240" as="sourcePoint" />
+            <mxPoint x="709.4799999999998" y="240" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-73" value="Display Employee&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tool Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-16">
+          <mxGeometry x="-0.1147" relative="1" as="geometry">
+            <mxPoint y="-20" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-20" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1" target="KE9948br8B84KFf-CvC7-4">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="270" as="sourcePoint" />
+            <mxPoint x="780" y="320" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="270" />
+              <mxPoint x="740" y="280" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-21" value="Validate Employee&lt;br&gt;&amp;nbsp;Tool Reqyest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-20">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="53" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-24" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="519" as="sourcePoint" />
+            <mxPoint x="710" y="529" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="519" />
+              <mxPoint x="740" y="529" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-25" value="Contarct Specialized&lt;br&gt;Tool Company" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-24">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="62" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-26" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="599" as="sourcePoint" />
+            <mxPoint x="869.4799999999998" y="599" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-27" value="Display Department Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-26">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="17" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-28" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="870" y="639" as="sourcePoint" />
+            <mxPoint x="870" y="649" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="900" y="639" />
+              <mxPoint x="900" y="649" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-29" value="Validate Department&lt;br&gt;&amp;nbsp;Reqyest" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-28">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="53" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-30" value="Validtae Tool Request&lt;br&gt;From External Company" style="endArrow=open;endSize=12;dashed=1;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry x="-0.003" y="-20" width="160" relative="1" as="geometry">
+            <mxPoint x="869.4999999999998" y="679" as="sourcePoint" />
+            <mxPoint x="710.0238095238096" y="679" as="targetPoint" />
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-32" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="880" as="sourcePoint" />
+            <mxPoint x="710" y="890" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="740" y="880" />
+              <mxPoint x="740" y="890" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-33" value="Send Tool RequestPurchase &lt;br&gt;To Financial Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-32">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="52" y="31" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-34" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="960" as="sourcePoint" />
+            <mxPoint x="1029.5000000000005" y="960" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-35" value="Display Tool &lt;br&gt;Request Purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-34">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-46" y="21" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-36" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1030" y="1000" as="sourcePoint" />
+            <mxPoint x="1030" y="1010" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="1000" />
+              <mxPoint x="1060" y="1010" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-37" value="Validate Tool &lt;br&gt;Request Purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-36">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="53" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-41" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1030" y="1229" as="sourcePoint" />
+            <mxPoint x="1030" y="1239" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1060" y="1229" />
+              <mxPoint x="1060" y="1239" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-42" value="Send Tool Request&lt;br&gt;&amp;nbsp;Purchase To &lt;br&gt;Company Manager" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-41">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="62" y="11" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-43" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1030" y="1309" as="sourcePoint" />
+            <mxPoint x="1199.5000000000005" y="1309" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-44" value="Display Tool Purchase Request" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-43">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="13" y="-19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-45" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="1349" as="sourcePoint" />
+            <mxPoint x="1200" y="1359" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="1230" y="1349" />
+              <mxPoint x="1230" y="1359" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-46" value="Validate Tool &lt;br&gt;Request Purchase" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-45">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="53" y="1" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-47" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="1389" as="sourcePoint" />
+            <mxPoint x="1030" y="1389" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-48" value="Validate &lt;br&gt;Tool Purchase Request &lt;br&gt;From Company Manager" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-47">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-13" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-49" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1030" y="1429" as="sourcePoint" />
+            <mxPoint x="709.3888888888887" y="1429" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-50" value="Validate &lt;br&gt;Tool Purchase Request &lt;br&gt;From Financial Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-49">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="47" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-51" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="1469" as="sourcePoint" />
+            <mxPoint x="550" y="1469" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-52" value="Validate &lt;br&gt;Tool Purchase Request &lt;br&gt;From Industry &lt;br&gt;Development Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-51">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-13" y="33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-54" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="549.3888888888891" y="1489" as="sourcePoint" />
+            <mxPoint x="550" y="1489" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-62" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="170" y="310" width="1240" height="1530" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-63" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="340" as="sourcePoint" />
+            <mxPoint x="550" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-64" value="Validate &lt;br&gt;Tool Purchase Request &lt;br&gt;From Industry &lt;br&gt;Development Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-63">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-65" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="440" as="sourcePoint" />
+            <mxPoint x="400" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-66" value="Request Disapproval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-65">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-67" value="at Industry &lt;br&gt;Development &lt;br&gt;Department refusal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-68" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="170" y="470" width="1240" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-69" value="at Industry&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Development&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Department&lt;br&gt;acceptance" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="490" width="90" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-70" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="1510" as="sourcePoint" />
+            <mxPoint x="400" y="1510" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-71" value="Request disapproval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-70">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-72" value="alt" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="200" y="700" width="1180" height="1120" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-75" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="200" y="840" width="1180" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-76" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="720" as="sourcePoint" />
+            <mxPoint x="550" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-89" value="Validate&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tool Purchase Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;From Industry&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Development Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-76">
+          <mxGeometry x="-0.1312" y="1" relative="1" as="geometry">
+            <mxPoint x="-11" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-78" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="820" as="sourcePoint" />
+            <mxPoint x="400" y="820" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-79" value="Request Disapproval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-78">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-80" value="at Tool company refusal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="230" y="740" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-81" value="at Tool company approval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="220" y="860" width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-82" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1030.31" y="1060" as="sourcePoint" />
+            <mxPoint x="709.6988888888886" y="1060" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-83" value="Validate &lt;br&gt;Tool Purchase Request &lt;br&gt;From Financial Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-82">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="47" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-90" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="1100" as="sourcePoint" />
+            <mxPoint x="550" y="1100" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-91" value="Validate&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Tool Purchase Request&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;From Industry&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Development Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-90">
+          <mxGeometry x="-0.1312" y="1" relative="1" as="geometry">
+            <mxPoint x="-11" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-92" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="1160" as="sourcePoint" />
+            <mxPoint x="400" y="1160" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-93" value="Request Disapproval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-92">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-94" value="at &lt;br&gt;Financial Department &lt;br&gt;refusal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1070" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-95" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1030" width="1110" height="770" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-96" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="240" y="1210" width="1110" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-97" value="at&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;Financial Department&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;approval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1240" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-98" value="frame" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1369" width="1060" height="411" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-107" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1200" y="1600" as="sourcePoint" />
+            <mxPoint x="1030" y="1600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-108" value="Validate &lt;br&gt;Tool Purchase Request &lt;br&gt;From Company Manager" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-107">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-13" y="19" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-109" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="1030" y="1640" as="sourcePoint" />
+            <mxPoint x="709.3888888888887" y="1640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-110" value="Validate &lt;br&gt;Tool Purchase Request &lt;br&gt;From Financial Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-109">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="47" y="29" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-111" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="710" y="1680" as="sourcePoint" />
+            <mxPoint x="550" y="1680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-112" value="Validate &lt;br&gt;Tool Purchase Request &lt;br&gt;From Industry &lt;br&gt;Development Department" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-111">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-13" y="33" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-113" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="549.3888888888891" y="1700" as="sourcePoint" />
+            <mxPoint x="550" y="1700" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-114" value="" style="endArrow=open;endFill=1;endSize=12;html=1;rounded=0;dashed=1;" edge="1" parent="1">
+          <mxGeometry width="160" relative="1" as="geometry">
+            <mxPoint x="550" y="1721" as="sourcePoint" />
+            <mxPoint x="400" y="1721" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-115" value="Request Approval" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="KE9948br8B84KFf-CvC7-114">
+          <mxGeometry x="-0.2082" y="1" relative="1" as="geometry">
+            <mxPoint x="-16" y="9" as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-116" value="" style="line;strokeWidth=1;fillColor=none;align=left;verticalAlign=middle;spacingTop=-1;spacingLeft=3;spacingRight=3;rotatable=0;labelPosition=right;points=[];portConstraint=eastwest;strokeColor=inherit;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1560" width="1060" height="8" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-117" value="at&amp;nbsp;&lt;br&gt;CompanyManager&lt;br&gt;refusal" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-118" value="at&amp;nbsp;&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;CompanyManager&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;approval" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="280" y="1580" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="KE9948br8B84KFf-CvC7-119" value="SD: Engineer Tool Request" style="shape=umlFrame;whiteSpace=wrap;html=1;pointerEvents=0;width=100;height=60;" vertex="1" parent="1">
+          <mxGeometry x="70" y="10" width="1410" height="1890" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

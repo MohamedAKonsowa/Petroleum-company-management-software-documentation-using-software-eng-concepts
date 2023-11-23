@@ -1,0 +1,167 @@
+Project Title : Petroleum Company System
+
+Project Discription : 
+	
+	Aim: increasing the efficiancy of operation in the company
+
+	This system will be used for time scheduling and task distribution and operation management.
+	This system will not be fully involved in the production process.
+	
+
+List of team members:
+	
+	Team manager: Ali Ehab Ali Hassan          			 21100800
+
+	Team members: 
+		
+			  Mohamed Ashraf Rabie Mohamed 			 21100854
+			  Ramez Mohamed Fathi Ahmed    			 21100793
+			  Youssef Khaled Abdelsalam Mohamed	 	 	 21100865
+			  Mohamed Ashraf Mahmoud Mohamed	 		 21100873
+
+Initial identified customer requierments:
+
+	1 - Managing insurance
+	2 - Managing tool requests by Eng
+	3 - Managing shift distribution 
+	4 - Displaying The salaries of all employees
+	5 - Managing The salaries of all employees
+	6 - Managing Employee requests
+	7 - Managing Task Distribution
+	8 - Determining workplace of employees
+	9 - Managing hiaring requests 
+	10- Managing maintanace request 
+	11- Displaying Shift Time
+	12- Displaying Shift Location
+	13- Classification of produced waste
+	14- Displaying the amount of waste produced
+	15- Managing wastes recycling
+	16- Managing lab requests     
+	17- Displaying lab reports
+	18- Managing employee promotions
+	19- Managing employee transportaion
+	20- Managing work teams
+	21- Comparing production with prediction             
+	22- Displaying legal issues to the lawyers
+	23- Applying legal actions  
+	24- Displaying The company's financial position
+	25- Displaying maintenance report
+	26- Accessing of cameras 
+	27- Monitoring Work entry and departure times for employees
+	28- User login
+
+ Initial identified subsystems names and functions:
+
+	A)  On-Site Security system :
+
+					- Monitoring the camera system 
+					- Monitoring Work entry and departure times for employees
+					 
+  	B)  Login System :
+
+					- Shows the user the correct interface based on his profession and position 
+
+  	C)  Maintenance Management System :
+
+					- Monitoring the repairs of machines and tools 
+					- Showing the locations of machine that are defective
+					- Showing the defective machines and their defects
+
+  	D)  Transportation Management System :
+		
+					- Managing the employee transport by managing the pickup times 
+					- Managing the transport of products
+
+  	E)  Financial Management System :
+
+					- Managing the employee salaries and bonuses
+					- Showing the financial state of the company
+					- Displaying the required bills
+					- Showing the Value of the company stocks in the stock market
+					- Approving and declining the requests regarding purchasing
+					- Calculating the profit and losses of the company
+					- Displaying The salaries of all employees
+					- Comparing production with prediction 
+
+
+  	F)  HR Management System :
+
+					- Managing employee promotions
+					- Managing hiring and firing employees
+					- Managing work teams
+					- Monitoring Work entry and departure times for employees
+					- recieving employee report cards from HR workers 
+
+  	G)  Laboratory Management System :
+
+					- Recieve lab reports from lab memberes
+					- Displaying lab reports
+
+  	H)  Insurance Management System :
+
+					- Managing insurance by reciving the bills submmited by the employees and showing them to the accountants for review
+					- Monitoring the wellbeing of the employees
+					- Follow-up standards of peace and honesty
+
+
+  	I) Waste recycling Management System :
+
+					- Managing wastes recycling 
+					- Displaying the amount of waste produced
+					- Classification of produced waste
+
+  	J) Legal affairs Management System :
+
+					- Displaying legal issues to the lawyers
+					- Applying legal actions 
+
+	K) Requests Management System :
+
+					- Managing Employee requests
+					- Managing hiring requests 
+					- Managing lab requests
+					- Managing tool requests by Eng
+					- Managing maintanance requests
+
+	L) Scheduling system :
+
+					- Managing shift distribution
+					- Managing shift duration
+					- Managing shift location
+					- Managing Task Distribution
+					- Display Employee schedule
+					- Enables higher-ups to Edit task of lower ranked employeees that are under them 
+					   
+					
+					
+
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

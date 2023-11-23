@@ -1,0 +1,73 @@
+Test Requirement                             Test Case Number 		  Component 				Input Values     						    Description
+
+
+With Valid input							1		      Requeted Date                         25/5/2023                                         Accepted 
+
+
+                                     
+				                              2                                                       25/5/2020                                 Error Message ---> the entered date has already Passed
+
+
+
+
+
+
+
+																		        			          			            			
+With Invalid input 					     3									  t/5/2023                                  Error Message ---> the entered date  must be written in intgers only
+
+								
+								     4								         2023/5/7                                 Error Message ---> the entered date  must be written in   DD/MM/YYYY 	
+
+
+								     5									Tuesday/june/2023                           Error Message ---> the entered date  must be written in intgers only
+
+
+
+
+
+
+
+       
+With Valid input	                                   6                    Write Reason                I cannot come because of having my son graduation at school           Accepted 
+ 																	and it is at the same time of work  
+
+
+With Invalid input					     7                                                         I cannot come    					Error Message ---> the entered reason must be more than 50 character
+
+
+                             
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Test Requirement                             Test Case Number 		  Component 				Action					                         Description
+
+
+With Valid input	                                8                       submit    |                       Onclick &&
+														|			Requested Date ---> 25/5/2023   
+														|		      Write Reason-->  I cannot come because of having |                    Accepted
+														|			 my son graduation at school        
+ 														|			and it is at the same time of work               |          
+    
+														|
+
+With Invalid input                                9						| Onclick&& Requested Date ---> 25/5/2023         |   Error Message ---> Failed to send request the entered reason must be more than 50 character														     Write Reason-->  I cannot come   
+
+                                              -------------------------------------------------------------------------------------------
+
+								10                                            Onclick&& Requested Date --->  t/5/2023          | Error Message ---> Failed to send request tthe entered date  must be written in intgers 
+																Write Reason-->   I cannot come because of having |  
+																	 my son graduation at school        
+ 																	and it is at the same time of work  
+
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+								11                                                         Onclick&& Requested Date --->Tuesday/june/2023       |   Error Message ---> Failed to send request the entered reason must be 				      														Write Reason-->  I cannot come                        more than 50 character	and the entered datemust be written in DD/MM/YYYY
+
+
+
+
+
+
+
+                                                
